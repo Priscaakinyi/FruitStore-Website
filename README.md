@@ -1,3 +1,3 @@
 # FruitStore-Website
 
-This is an application for student ambassadors in L'Oréal to network. grow and make impact in their community 
+This is an e-commerce website for consumers to get fresh fruits at cheap prices
